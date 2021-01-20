@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/kare/base62"
+	"kkn.fi/base62"
+	"github.com/gorilla/mux"
 )
 
 func main() {
